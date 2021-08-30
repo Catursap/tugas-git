@@ -1,1 +1,9 @@
-# tugas-git
+# tugas-gith
+Git add
+Git commit
+Git push
+Git marge
+Git pull
+Git chekout
+Git riset
+Git rivert
